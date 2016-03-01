@@ -1,2 +1,2 @@
-# cusotm-table-view
+# custom-table-view
 Custom tableview with custom cells
